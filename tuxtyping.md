@@ -1,3 +1,8 @@
+---
+title: Tux Typing
+layout: default
+permalink: /tuxtyping/
+---
 # Tux Typing
 
 ## About

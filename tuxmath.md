@@ -1,3 +1,9 @@
+---
+title: TuxMath
+layout: default
+permalink: /tuxmath/
+---
+
 # Tux, of Math Command
 
 ## About
