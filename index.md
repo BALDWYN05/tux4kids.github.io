@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # About Tux4Kids
 
 Tux4Kids is an international group of volunteers developing high-quality software for kids, with the goal of combining fun and learning into an irresistable package.
